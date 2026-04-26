@@ -1,3 +1,10 @@
+# Problem: A. Way Too Long Words
+# Platform: Codeforces
+# Language: Python
+# Topic: Strings
+# Rating: 800
+
+
 n = int(input())
 les_chaines=[]
 
@@ -13,4 +20,3 @@ for i in range(n):
 
 for i in range(n):
     print(les_chaines[i])
-    
