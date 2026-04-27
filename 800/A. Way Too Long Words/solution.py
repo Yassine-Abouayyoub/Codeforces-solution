@@ -1,7 +1,7 @@
-# Problem: A. Way Too Long Words
+# Problem: A. Beautiful Matrix
 # Platform: Codeforces
-# Language: Python
-# Topic: Strings
+# Language: C
+# Topic: Implementation, Matrix, Math
 # Rating: 800
 
 
