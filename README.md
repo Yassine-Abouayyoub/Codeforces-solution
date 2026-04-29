@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="image/thumbnail.png">
-</p>
+![Thumbnail](image/thumbnail.png)
 # Codeforces Solutions
 
 A collection of my personal solutions for problems from Codeforces.
