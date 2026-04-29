@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/thumbnail.png" width="600">
+  <img src="image/thumbnail.png">
 </p>
 # Codeforces Solutions
 
