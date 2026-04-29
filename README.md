@@ -1,4 +1,3 @@
-<img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/2b701ac3-42b0-453f-9422-3f5b2bdcd298" />
 # Codeforces Solutions
 
 A collection of my personal solutions for problems from Codeforces.
