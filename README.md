@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/thumbnail.png" width="600">
+</p>
 # Codeforces Solutions
 
 A collection of my personal solutions for problems from Codeforces.
