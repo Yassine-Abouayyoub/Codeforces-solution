@@ -1,3 +1,5 @@
+![Thumbnail](thumbnail.png)
+
 # Codeforces Solutions
 
 A collection of my personal solutions for problems from Codeforces.
